@@ -1,0 +1,9 @@
+file_format: "1"
+id: mykbd
+name: MyKBD
+type: shield
+url: ""
+requires: []
+exposes: []
+features:
+  - keys
