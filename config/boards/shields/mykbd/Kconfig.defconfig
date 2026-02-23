@@ -1,0 +1,6 @@
+if ZMK_SHIELD_MYKBD
+
+config ZMK_KEYBOARD_NAME
+    default "MyKBD"
+
+endif
